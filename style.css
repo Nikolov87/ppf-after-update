@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  padding: 1;
+  background: url(https://th.bing.com/th/id/R.c895db405f490e3eda00969757c55e3d?rik=8dq47eQd%2fd35QQ&pid=ImgRaw&r=0)
+    no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.box {
+  width: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: "Century Gothic", sans-serif;
+}
+.box-img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1 {
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+}
+.c-site-header {
+  background-color: ;
+  width: 100%;
+  min-height: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.box h2 {
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-weight: 100;
+  font-style: oblique;
+}
+.hero {
+  position: relative;
+  width: 100%;
+  height: 10vh;
+}
+nav {
+  display: flex;
+  width: 84%;
+  margin: auto;
+  padding: 20px;
+  justify-content: center;
+}
+.box p {
+  text-align: justify;
+}
+ul {
+  margin: 0.2;
+  padding: 0;
+}
+.box li {
+  display: inline-block;
+  margin: px;
+  list-style: none;
+}
+.box li a {
+  color: #b9b9b9;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  transition: all ease-in-out 250ms;
+}
+.about {
+  width: 100%;
+  padding: 10px 10px;
+  color: white;
+}
+h3 {
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: 100;
+  text-align: center;
+}
+p {
+  font-size: 15px;
+  letter-spacing: 1px;
+  font-weight: 100;
+  padding: 1%;
+  text-align: center;
+}
+body {
+  margin: 0;
+  height: 100%;
+}
+.video {
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #191919;
+}
+.video iframe {
+  height: auto;
+  width: 100px;
+  position: absolute;
+  width: 100%;
+  height: 32%;
+  border: 0;
+}
+.video_text {
+  width: 550px;
+}
+.video_clip {
+  width: 1135px;
+  max-width: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.video_text h1 {
+  color: #fb888b;
+  font-size: 65px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+.video_text p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 35px;
+  font-size: 25px;
+  margin-bottom: 45px;
+}
+h3 {
+  color: white;
+  p-color: white;
+}
+.about_text p {
+  color: white;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors {
+  display: none;
+}
